@@ -7,7 +7,7 @@ Qichen Fu, Xingyu Liu, Kris M. Kitani
 CVPR2022
 ```
 
-[[paper](https://arxiv.org/abs/2110.11524)][[Project](https://fuqichen1998.github.io/SequentialVotingDet/)][[Code](https://github.com/fuqichen1998/SequentialVotingDet)]
+[[Paper](https://arxiv.org/abs/2110.11524)][[Project](https://fuqichen1998.github.io/SequentialVotingDet/)][[Code](https://github.com/fuqichen1998/SequentialVotingDet)]
 
 ## Setup
 1. Clone this repository
