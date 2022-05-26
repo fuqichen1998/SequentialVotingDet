@@ -37,8 +37,8 @@ class DOH100Dataset(Dataset):
 
     def __init__(self,
                  priors,
-                 img_root='100DOH_FOLDER/100doh/raw',
-                 annotation_dir='100DOH_FOLDER/100doh/file',
+                 img_root='100DOH_FOLDER/raw',
+                 annotation_dir='100DOH_FOLDER/file',
                  mode='train',
                  inp_size=224,
                  bbox_area_thres=1,
