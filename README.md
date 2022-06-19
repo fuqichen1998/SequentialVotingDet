@@ -1,4 +1,4 @@
-# Sequential Voting with Relational Box Fields for Active Object Detection (CVPR 2022)
+# [CVPR 2022] Sequential Voting with Relational Box Fields for Active Object Detection
 
 The official code release for our paper
 ```
